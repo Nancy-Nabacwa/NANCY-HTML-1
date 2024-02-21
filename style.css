@@ -1,0 +1,9 @@
+#sentence{
+    padding: 20px;
+    margin: 5%;
+    border:2px solid yellow;
+
+}
+#entity{
+    border: dotted 3px green;
+}
